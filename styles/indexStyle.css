@@ -1,0 +1,64 @@
+* {
+    margin: 0em;
+    padding: 0em;
+    box-sizing: border-box;
+  }
+
+.backgrounStyle{
+    background-color: #121116 ;
+    width: auto;
+    height: 420px;
+    display: block;    
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 100px;   
+
+}
+
+.logo_style{
+    display: block;
+    width: 112px;
+    height: 36px;    
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.social{
+    color: #f0ecee;
+    margin-top: 60px;
+    text-align: center;    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hor_line{
+    width: 230px;    
+    display: block;
+    color: #f0ecee;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.link_ikon{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;       
+}
+
+.ikon{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.allRight{
+    color: #f0ecee;
+    margin-top: 100px;
+    text-align: center;    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kasperLink{
+    text-decoration: none;
+    color: #19c8fa;
+}
